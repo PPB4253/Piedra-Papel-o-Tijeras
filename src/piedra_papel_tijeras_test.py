@@ -30,4 +30,4 @@ def test_determina_ganador(eleccion_jugador, eleccion_ordenador):
 
 # Función principal
 if __name__ == "__main__":
-    jugar()
+    jugar_torneo()
